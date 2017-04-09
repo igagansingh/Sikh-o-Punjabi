@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sikh-O</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for alphabets members [CHAR LIMIT=20] -->
+    <string name="category_alphabets">Alphabet</string>
+
+    <string name="oorha">ਲਾਲ</string>
+
+    <string name="success">CONGRATULATIONS!</string>
+    <string name="try_next">Try the next one !</string>
+
+    <string name="fail">NOT GOOD.</string>
+    <string name="try_again">Try again!</string>
+
+    <string name="close">YOU\'RE CLOSE.</string>
+
+    <string name="nothing">Draw on the letter.</string>
+
+    <string name="keep_trying">Keep Trying!</string>
+</resources>

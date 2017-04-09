@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    card_view:cardElevation="10dp">
+    <LinearLayout
+        android:layout_margin="4dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/colorAlphabet"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="7"
+            android:contentDescription="@string/app_name"
+            android:scaleType="centerInside"
+            android:id="@+id/alphabetimage"
+            tools:src="@drawable/oorah_72" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:background="@color/colorAccentTint"
+            android:padding="4dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:textColor="@color/white"
+                android:gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:textSize="24sp"
+                android:id="@+id/letter_punjabi"
+                android:maxLines="1"
+                tools:text = "@string/oorha"/>
+            <TextView
+                android:layout_width="0dp"
+                android:textColor="@color/white"
+                android:layout_weight="2"
+                android:layout_height="wrap_content"
+                android:textSize="24sp"
+                android:gravity="center_horizontal"
+                android:id="@+id/leter_english"
+                android:maxLines="1"
+                tools:text = "Oo'rah"/>
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>
