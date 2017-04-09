@@ -6,6 +6,7 @@
 2. [Thanks](#thanks)
 3. [Screenshots](#shots)
 4. [Link to play store](https://play.google.com/store/apps/details?id=com.gagandeep.developer.sikh_o&hl=en)
+5. [Alphabet feature in working](#gif)
  
 
 ## <a name="about"></a> About
@@ -39,9 +40,9 @@ It will help you to give basic introduction of yourself and even help you say pr
 ## <a name="thanks"></a> Special thanks to :
 
 1. Udacity
-2. [Angad Singh](https://github.com/Angads25), without him I couldn't have implemented the feature where the user can learn to draw on the letters.
+2. [Angad Singh](https://github.com/Angads25), without him I couldn't have implemented the feature where the user can learn to draw on the letters. Look at the working [here](#gif).
 
-## <a name="shots"></a> Screenshot :
+## <a name="shots"></a> Screenshots :
 
 <img src="https://cloud.githubusercontent.com/assets/13224901/24840538/419917b2-1d8c-11e7-938b-0a8125a8da13.png" width="256"> <img src="https://cloud.githubusercontent.com/assets/13224901/24840546/61f9acba-1d8c-11e7-932f-967081886755.png" width="256">
 
@@ -50,3 +51,7 @@ It will help you to give basic introduction of yourself and even help you say pr
 <img src="https://cloud.githubusercontent.com/assets/13224901/24840558/99b9cb9e-1d8c-11e7-8df8-37228267ceb4.png" width="256" />
 
 <img src="https://cloud.githubusercontent.com/assets/13224901/24840564/c65bc4e0-1d8c-11e7-905b-caa8c5d61502.png" width="256" />
+
+## <a name="gif"></a> Working alphabet GIF :
+
+![gifpro](https://cloud.githubusercontent.com/assets/13224901/24840812/32fb54bc-1d92-11e7-9f63-0c690455838e.gif)
